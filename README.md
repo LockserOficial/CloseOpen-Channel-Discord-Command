@@ -1,4 +1,4 @@
-# Comandos para la gestion de Canales de Discord
+# COMMAND INSTRUCTIONS
 
 ## -> **ES:**
 ## Comando /open (Abrir Canal)
